@@ -14,7 +14,7 @@ docopt = "^1.1.0"
 futures = "^0.3.0"
 hex = "^0.4.0"
 log = "^0.4.1"
-openssl = { version = "^0.10.26", features = ["vendored"] }
+openssl = { version = "^0.10.66", features = ["vendored"] }
 openssl-sys = "^0.9.53"
 rand = "^0.7.0"
 serde = "^1.0.88"
